@@ -1,1 +1,2 @@
-[![kinnounko's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnounko)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kinnounko&show_icons=true&theme=gruvbox" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinnounko&theme=gruvbox" />
